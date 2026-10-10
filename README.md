@@ -1,4 +1,4 @@
-Este repositorio contiene la investigación y código para una tesis de maestría en IA. 
+ 
 El sistema permite:
 1. Detección de rajaduras en tiempo real mediante la cámara de un smartphone (Edge AI).
 2. Cuantificación métrica submilimétrica de la severidad (ancho de fisura).
